@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import binascii
 from Crypto.Util.strxor import strxor
 
